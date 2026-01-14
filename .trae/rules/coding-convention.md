@@ -1,0 +1,12 @@
+- File/folder: lower_snake_case
+- Class: UpperCamelCase
+- Variable: lowerCamelCase
+- Constant: UPPER_SNAKE_CASE
+- Ikuti Effective Dart Style Guide
+- Selalu gunakan null safety
+- Gunakan const widgets jika memungkinkan untuk performa
+- Modular: jangan letakkan semua logic di main.dart
+- Logging & debug: gunakan untuk eksperimen agar mudah tracking
+- Minimal boilerplate: fokus pada eksperimen yang jelas
+- Sertakan dokumentasi di tiap file dalam bentuk komentar
+- Dokumentasi harus jelas dan mudah dipahami

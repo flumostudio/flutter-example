@@ -1,0 +1,24 @@
+name: flumo_flutter_example
+description: Flutter experiment project using clean architecture
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.1.0
+  flutter_map_marker_cluster: ^1.2.0
+  latlong2: ^0.9.0
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^6.0.0
+
+flutter:
+  uses-material-design: true
